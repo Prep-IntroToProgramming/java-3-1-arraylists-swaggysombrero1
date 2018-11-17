@@ -1,4 +1,3 @@
-
 public class Cat {
     private String name;
     private double weight;
